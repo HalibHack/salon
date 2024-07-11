@@ -10162,7 +10162,7 @@ body {
 
 .jps-img {
   position: fixed;
-  top: 500px; /* Adjust as needed */
+  top: 560px; /* Adjust as needed */
   right: 10px; /* Adjust as needed */
   width: 70px; /* Adjust width as needed */
   height: auto; /* Maintain aspect ratio */
@@ -10171,7 +10171,7 @@ body {
 
 .jps-img1 {
   position: fixed;
-  top: 400px; /* Adjust as needed */
+  top: 480px; /* Adjust as needed */
   right: 10px; /* Adjust as needed */
   width: 67px; /* Adjust width as needed */
   height: auto; /* Maintain aspect ratio */
